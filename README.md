@@ -1,4 +1,7 @@
 # Calculadora IMC
+#### Link do Site
+<a href="https://kaioxidil.github.io/calculadora_IMC/">Ver Site</a>
+
 
 ![image](https://github.com/user-attachments/assets/6df91465-aa74-4325-97d5-0e7e1cbcecde)
 <br>
